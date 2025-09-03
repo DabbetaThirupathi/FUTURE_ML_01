@@ -33,9 +33,9 @@ This initiative was developed as a key part of my **Machine Learning Internship 
 
 ## 📸 Dashboard Preview  
  
-![Superstore Sales Analysis and Forecast Dashboard](https://github.com/user-attachments/assets/1f0d583f-f11b-472b-a975-6353f4f89683)
+![Superstore Sales Analysis and Forecast Dashboard]
 
-
+<img width="907" height="501" alt="Capture" src="https://github.com/user-attachments/assets/d20e9cd3-1448-417b-b22d-d851192e5465" />
 
 ## 🔗 Links  
 - 📂 [Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)  
